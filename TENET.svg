@@ -1,0 +1,11 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text fill="#c00000" stroke-width="0" x="329" y="264" id="svg_1" font-size="36" font-family="'Big Shoulders Display'" text-anchor="start" xml:space="preserve" font-weight="bold" stroke="#000" transform="matrix(1.63603,0,0,1.7712447301222767,-208.305,-172.0582828525289) ">TENET</text>
+ </g>
+</svg>
